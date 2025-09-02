@@ -1,5 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+## NAME: PRAISY NISHITHA J
+## REFERENCE : 212224100042
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="604" height="855" alt="image" src="https://github.com/user-attachments/assets/1d782a24-cba3-491c-943c-7d4282618a1b" />
+ <img width="605" height="861" alt="image" src="https://github.com/user-attachments/assets/371d55ad-79c0-4340-a082-f5bb8196c5fe" />
+
 
  
  ## RESULT
